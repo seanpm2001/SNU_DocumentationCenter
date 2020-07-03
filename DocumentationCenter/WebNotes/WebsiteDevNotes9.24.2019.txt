@@ -1,0 +1,434 @@
+=====================================================================================
+WebsiteDevNotes9.24.2019.txt
+Originally websiteideas9.12.2019.txt
+=====================================================================================
+
+Settings page
+
+Enhanced settings page, with lots of options 
+
+General updates to documentation
+
+=====================================================================================
+
+Learning and references
+
+Useful tutorials
+
+JS Data
+
+https://www.youtube.com/watch?v=AUOe6E7GgP8
+https://www.youtube.com/watch?v=1pz9zExrj5o&list=PL081AC329706B2953&index=51
+
+=====================================================================================
+
+Idea writing page
+
+Carry over some of yesterdays website notes (just carry over everything like you have been, then remove the added things later) no need for reminder anymore, this will be the last notes page that contains this info if iI can remember
+
+=====================================================================================
+
+Universal time system
+
+Name for time system: universal time zone/system
+Find content used in a video easily with detection
+Update idea board main page info: transparent boxes, 
+Website plan: redo legends of the internet section
+
+=====================================================================================
+
+Decisions
+
+Decision that needs to be made:
+Do you want to modify the update log further to include things like sidebars and topnavs? Should it be like every other page? What should the background be.
+
+=====================================================================================
+
+Also a little piece of memorabilia needs to be created:
+
+More sharable images of the site without the SNU brand
+Custom SNU wallpapers (in 16K) (15360x8640) -temporarily cancelled as images take up too much
+Note: GIMP is a wonderful raster image editor. It really had gotten me into graphic design again, and it has helped me in many ways! :)
+
+Decisions that need to be made
+
+Stockup ideas
+
+Streak ended
+
+=========================================================================================================
+                                                                                                         
+                                                                                                         
+TTTTTTTTTTTTTTTTTTTTTTT     OOOOOOOOO                      DDDDDDDDDDDDD                                 
+T:::::::::::::::::::::T   OO:::::::::OO                    D::::::::::::DDD                              
+T:::::::::::::::::::::T OO:::::::::::::OO                  D:::::::::::::::DD                            
+T:::::TT:::::::TT:::::TO:::::::OOO:::::::O                 DDD:::::DDDDD:::::D                           
+TTTTTT  T:::::T  TTTTTTO::::::O   O::::::O                   D:::::D    D:::::D    ooooooooooo           
+        T:::::T        O:::::O     O:::::O                   D:::::D     D:::::D oo:::::::::::oo  :::::: 
+        T:::::T        O:::::O     O:::::O                   D:::::D     D:::::Do:::::::::::::::o :::::: 
+        T:::::T        O:::::O     O:::::O ---------------   D:::::D     D:::::Do:::::ooooo:::::o :::::: 
+        T:::::T        O:::::O     O:::::O -:::::::::::::-   D:::::D     D:::::Do::::o     o::::o        
+        T:::::T        O:::::O     O:::::O ---------------   D:::::D     D:::::Do::::o     o::::o        
+        T:::::T        O:::::O     O:::::O                   D:::::D     D:::::Do::::o     o::::o        
+        T:::::T        O::::::O   O::::::O                   D:::::D    D:::::D o::::o     o::::o :::::: 
+      TT:::::::TT      O:::::::OOO:::::::O                 DDD:::::DDDDD:::::D  o:::::ooooo:::::o :::::: 
+      T:::::::::T       OO:::::::::::::OO                  D:::::::::::::::DD   o:::::::::::::::o :::::: 
+      T:::::::::T         OO:::::::::OO                    D::::::::::::DDD      oo:::::::::::oo         
+      TTTTTTTTTTT           OOOOOOOOO                      DDDDDDDDDDDDD           ooooooooooo           
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+=========================================================================================================
+______ _                           _         _   _                      _            _          _            _             
+| ___ \ |                         | |       | | | |                    | |          | |        | |          | |            
+| |_/ / | ___  __ _ ___  ___    __| | ___   | |_| |__   ___  ___  ___  | |_ __ _ ___| | _____  | |_ ___   __| | __ _ _   _ 
+|  __/| |/ _ \/ _` / __|/ _ \  / _` |/ _ \  | __| '_ \ / _ \/ __|/ _ \ | __/ _` / __| |/ / __| | __/ _ \ / _` |/ _` | | | |
+| |   | |  __/ (_| \__ \  __/ | (_| | (_) | | |_| | | |  __/\__ \  __/ | || (_| \__ \   <\__ \ | || (_) | (_| | (_| | |_| |
+\_|   |_|\___|\__,_|___/\___|  \__,_|\___/   \__|_| |_|\___||___/\___|  \__\__,_|___/_|\_\___/  \__\___/ \__,_|\__,_|\__, |
+                                                                                                                      __/ |
+                                                                                                                     |___/ 
+===========================================================================================================================
+Priority: low
+
+More sharable images of the site without the SNU brand
+
+----------------------------------------------------------------------------------------------------------------------------
+Priority: medium
+
+Make an update to the classic Legends of the Internet section of the site
+Modernize the new legends of the internet section of the site to make it better than the classic
+
+---------------------------------------------------------------------------------------------------------------------------
+WORK THAT
+MUST BE 
+DONE 
+TODAY:
+---------------------------------------------------------------------------------------------------------------------------
+Priority: HIGH !
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+=========================================================================================================
+
+Future 2D start page update ideas
+
+Everything in a transparent box
+Snapshots move to the bottom of the page
+Developer comments at the very bottom (the same format as the update log, and idea board 
+Add links between 1D start, and 3D start
+More transparent boxes for other sections
+
+Experimental HTML tests
+
+Some tests you should try:
+longest title in <title></title> (can it handle 1000 character titles?) (please test in a different browser first)
+
+
+=====================================================================================
+
+List of improvements of SNU over YouTube (below)
+
+List of actions SNU will never do (below)
+
+
+List of ways SNU videos improve over YouTube videos
+<H1>SNU Video improvements over YouTube videos</H1>
+<p>01)* You get to control the ads you see</p>
+<p>02)* The subscribe button actually works</p>
+<p>03)* Notifications actually work</p>
+<p>04)* Playlists have more to them</p>
+<p>05)* Videos have more options to them</p>
+<p>06)* Videos can be downloaded, even without a YouTube Red/YouTube Premium subscription</p>
+<p>07)* Comment sections have more features to them</p>
+<p>08)* There are more supported video formats</p>
+<p>09)* The copyright system is alot harder to abuse, working on making it impossible to abuse</p>
+<p>10)* Stronger fair use is in effect</p>
+<p>11)* More statistics are shown</p>
+<p>12)* The recommended system works better</p>
+<p>13)* You won't get randomly unsubscribed from people</p>
+<p>14)* There is a much higher like limit (YouTubes liked videos limit per account is 5,000 (five thousand), SNUs limit is 100,000,000,000,000,000,000,000,000,000,000,000,000 likes (one hundred undecillion), which is pretty much endless, as you will never reach this amount, even in a hundred lifetimes</p> 
+<p>15)* </p>
+<H1>Things SNU will never do</H1>
+<p>* Be blocked behind a paywall</p>
+<p>* Eliminate free speech</p>
+<p>* Remove options</p>
+<p>* Sell your data</p>
+<p>* </p>
+
+=====================================================================================
+
+User settings
+
+User settings file
+
+=====================================================================================
+
+Website notes overview
+---
+
+Website notes 7.16.2019 (AT NIGHT)
+Include the 5 month wait (YOU FORGOT TO DO THIS)
+
+More ideas:
+Graphical test pages (5 fps-120 fps)
+Update the !!Start page in 1d mode
+
+NEW PLANS:
+Reduce the amount of dead links
+Create a developer info page for 2D and 3D mode
+
+Minecraft files:
+resolution (between 32x32 and 16000x16000)
+
+Add a Minecraft 3D start page 
+
+Add content in the content missing sections in the 1D start page
+
+=========================================================================================================
+
+Server data
+
+Collect server data globally and report it to the main server server list
+The data that will be collected is the server size, and usage, nothing else.
+
+=====================================================================================
+
+SNU porn and erotica
+
+Message on []] porn
+Do the right thing
+Always remember that women are not sex objects. Treat them like you would treat anyone else  
+
+Erotica links to porn
+porn links to erotica
+have to balance it to make almost everyone happy. Also have to state my position on these things, as it is neccesary.
+Anti-rape policy
+
+=====================================================================================
+
+Yourspace
+
+Myspace examples
+Myspace import
+Examples
+
+=====================================================================================
+
+Current mission
+
+DEAD LINK HUNTS
+
+Check files:
+templateaccountblogs
+SNUporn
+updatelog (no check necessary, as this page is frequently, and heavily updated and checked for errors) (July is where it received its heaviest development period so far this year)
+
+=====================================================================================
+
+IDEAS STOCK UP
+
+<!-- 1 !--> ADDED SEPTEMBER 13TH 2019 (9.13.2019)
+2.5D support for 2D mode
+<p>I don't think it is necessary to add in a separate mode for 2.5D.</p>
+<p>I have been looking at newgrounds lately (8.6.2019) and its design has really inspired me to do more with my site.</p>
+<p>So I have some new visual effect options that I will allow. But first, there needs to be a 2D mode with some 3D graphics to be able to use it.</p>
+<p>So 2.5D mode is going to be an expansion to 2D mode, that will allow for 3D borders, and some other elements.</p>
+<!-- 2 !--> ADDED SEPTEMBER 14TH 2019 (9.14.2019)
+2.5D graphic: neon borders
+<p>One of the first 2.5D graphics I would like to implement is lit borders.</p>
+<p>What this means is that borders will be thicker, and allow for extra effects, such as lighting. The light color can be changed in the settings.</p>
+<!-- 3 !--> ADDED SEPTEMBER 15TH 2019 (9.15.2019)
+Loop count
+<p>There will be a loop count variable on audio and video content (also GIF files) this loop count will go up each time a piece of content is looped.</p>
+<p>There will also be a universal loop count for the whole site, and a master loop count for the user account. This is just a statistic feature.</p>
+<!-- 4 !--> ADDED SEPTEMBER 16TH 2019 (9.16.2019)
+Controlled AI System
+<p>I am considering getting an AI to be on SNU. For safety reasons, it will be in its own controlled area. It can write into a journal to tell what it is feeling.</p>
+<p>I am not sure if the AI should have control of the site.</p>
+<p>This idea is still in draft form.</p>
+<!-- 5 !--> ADDED SEPTEMBER 17TH 2019 (9.17.2019)
+(non-software) SNU server machine for public server owners
+<p>Not everyone has a dedicated computer to run a server. There will be people who can't afford a massive server but want to run their own variation of the SNU website.</p>
+<p.So I will try and sell powerful machines that cost less, but can handle high quantities of users. The server will cost between $500 and $25000 depending on the model and specs</p>
+<p>It will be custom-designed to run SNU effectively, and it will receive updates frequently.</p>
+<!-- 6 !--> ADDED SEPTEMBER 18TH 2019 (9.18.2019)
+SNU browser extension: SNU variant validity check
+<p>SNU is going to be a massive peer to peer site where each peer has a copy of the site on their own server. That user can modify the site to whatever they want, unless it violates the law in their country.</p>
+<p>Due to this, there are likely going to be some malicious or bad knockoff variants. So there will be an extension for browsers that lets you detect the SNU software on it, and check for errors, such as malware, and illegal content in your area.</p>
+<p>It will also detect info about the site, and its security. It will tell you the rules of the distro, which country the main server is in, and more.</p>
+<!-- 7 !--> ADDED SEPTEMBER 19TH 2019 (9.19.2019)
+Separate servers for data
+<p>When a user downloads a copy of the SNU source code, they don't get all the user uploaded content. They can link to it, but it will have to be downloaded separately.</p>
+<p>I plan on having 9 separate servers for data (10, counting the main server):</p>
+<!-- 1 !--><b>*- SNU videos server</b>
+<p>This server holds all SNU videos.</p>
+<!-- 2 !--><b>*- SNU images server</b>
+<p>This server holds all SNU images.</p>
+<!-- 3 !--><b>*- SNU audio server</b>
+<p>This server holds all SNU audio.</p>
+<!-- 4 !--><b>*- SNU software server</b>
+<p>This server holds all SNU software.</p>
+<!-- 5 !--><b>*- SNU document server</b>
+<p>This server holds all SNU documents, blogs, and books.</p>
+<!-- 6 !--><b>*- SNU user files server</b>
+<p>This server holds all SNU user data, including passwords, and cloud storage. No-one has access to the information on this server, but accounts can be created with the data. All sensitive data is hidden.</p>
+<!-- 7 !--><b>*- SNU streaming server</b>
+<p>This server holds all SNU livestreams</p>
+<!-- 8 !--><b>*- SNU comments server</b>
+<p>This server holds all SNU comments, reviews, and questions</p>
+<!-- 9 !--><b>*- SNU evidence locker server</b>
+<p>This server holds all illegal content uploaded to SNU to use in a court trial. Nobody has access to the information on this server except for law enforcement, and SNU staff.</p>
+<!-- 10 !--><b>*- SNU advertisement server</b>
+<p>This server holds all SNU advertisements.</p>
+<!-- 8 !--> ADDED SEPTEMBER 20TH 2019 (9.20.2019)
+Autoplay GIF option
+<p>The option to autoplay GIF images is necessary. You can easily turn this on and off. With this off, a GIF will only play once, with it on, it will loop infinitely</p>
+<!-- 9 !--> ADDED SEPTEMBER 21ST 2019 (9.21.2019)
+Speedrun section of site
+<p>Recently I have come up with another solution to deepfakes in the future. I randomly came up with this solution and it has massive potential. So I have to make a section of the site dedicated to Speedruns. It will be its own category.</p>
+<p>There will be built in emulators for NES, SNES, GBA, PS1, PS2, XBOX, XBOX360, PS3, PS4, etc console games, and PC and mobile games. There will be no need for a handcam, a facecam, a referee, just an IDE that shows what they are doing in the game. If a human or machine is unable to replicate what is done in the speedrun without modifying the output script, or game, then the run will be illegitimate.</p>
+<p>The speedrun section will offer compatibility with many speedrun types, such as TAS, ANY%, LONGPLAY, etc.</p>
+<!-- 10 !--> ADDED SEPTEMBER 22ND 2019 (9.22.2019)
+Implementation of a speedrun cheat detection system
+<p>A couple days ago, I came up with a method of combating illegitimate speedruns. With the age of deepfaking coming into play, we have to have these systems in place to show what is real and what isn't, as we won't be able to distinguish it otherwise.</p>
+<p>I have had some unsuccessful methods so far for combating deepfaked videos of real life, but recently I found a way to do it with video games flawlessly. The idea is a speedrun has to have a tool running that shows what is happening in the game. If a cheat was to be found, or some sort of edit/splice, this system would be able to detect it, and delegitimize the run.</p>
+<p>This system will be put into place. Illegitimate speedruns will be removed from the leaderboards, but they will still be available on the site with a disclaimer.</p>
+4. Edit: External content servers to include an advertisement server</p>
+<!-- 11 !--> ADDED TODAY SEPTEMBER 24TH 2019 (9.24.2019)
+DVR Mode
+<p>With the TV section of the site, I would like to put in some legacy and modern features of a TV into the site. One of these is a DVR. The DVR will hold shows you watch, and how long you have watched them. You can add them into folders, and categorize them. Movies and shows in the DVR can be viewed offline as well.</p>
+<p>It will be like a real TV DVR. You can even customize it to make it look like one. It is all virtual as well. </p>
+<!-- 12 !--> ADDING SEPTEMBER 25TH 2019 (9.25.2019)
+VCR mode
+<p>With the TV section of the site, I want to add a legacy feature: a VCR.</p>
+<p>This is a feature that is optimized as a legacy system. To differentiate from the DVR, it performs different tasks, such as viewing private videos from your account, uploading your own content to it, viewing recent media faster, and more.</p>
+<p>It will not play VHS tapes, but you can apply a VHS filter to content you watch. It also stores the same amount as the DVR.</p>
+<!-- 13 !--> ADDING SEPTEMBER 26TH 2019 (9.26.2019) 
+Orthography view
+<p>Orthography mode on SNU is a flat mode that gives an orthography effect on content. For example, a 3D curved object will have more rectangles than curves.</p>
+<p>This view is compatible with 1D mode, and it is one of the views you can enable. You can choose to have solid color, pattern, or gradient design. By default, it is set to gradient design.</p>
+<!-- 14 !--> ADDED SEPTEMBER 23RD 2019 (9.23.2019)
+Global chat
+<p>The SNU global chat system will be a set of chatrooms globally for SNU. There will be many chatrooms for all regions. It will be a global chat for the entirety of SNU. There will also be a IRC global chat for all distributions so that all official SNU variations can connect with each other (distribution owners can turn this off, but it isn't recommended)</p>
+<!-- 15 !-->  ADDING SEPTEMBER 27TH 2019 (9.27.2019)
+IPA only mode
+<p>IPA (International Phonetic Alphabet) is a alphabetic system of phonetic notation based primarily on the Latin Alphabet. It helps people understand how words sound in the languages associated with it. Wikipedia already has one of these built into their site, and I was thinking of making a full-on version for this site. Not just a single word, but every word</p>
+<p>There will be options for IPA and related versions for other languages. It can be customized heavily, like all other SNU features.</p>
+<!-- 16 !--> ADDING SEPTEMBER 28TH 2019 (9.28.2019)
+morality test
+<p>To keep a friendly community, an optional feature is to take a morality test. Your profile will show if you took it, and if you passed or failed</p>
+<p>The morality test currently has 1/5 tests</p>
+<p>Test 1: Doing the right thing part 1</p>
+<p>In this test, you will be receiving a donation of actual money ($5.00), but it is an accident. Someone asks to refund it. Do you keep the money, or give it back?</p>
+<p>If you choose to keep it, you get $5.00 in real life, but you will fail the test, and it will show to everyone. If you refund it, you won't get the $5.00, but you will help the person out.</p>
+<p>Test 2: coming soon</p>
+<p>Test 3: coming soon</p>
+<p>Test 4: coming soon</p>
+<p>Test 5: coming soon</p>
+<p>More tests coming soon</p>
+<p>This test indicates how good of a person you are online and what you go after.</p>
+<!-- 17 !--> ADDING SEPTEMBER 29TH 2019 (9.29.2019)
+IDE feature: show number of lines, and line column
+<p>This is a togglable feature for all IDE modes that lets you show or hide the line count.</p>
+<!-- 18 !--> ADDING SEPTEMBER 30TH 2019 (9.30.2019)
+IDE feature: show character count
+<p>This is a togglable feature for all IDE modes that lets you show and hide the character count, and also sort by non-UTF-8/16/32</p>
+<!-- 19 !--> ADDING OCTOBER 1ST 2019 (10.01.2019)
+IDE feature: autoreplace
+<p>This is a togglable feature that lets you autoreplace certain elements to automate your work. It can change spaces to tabs, and vice versa.</p>
+<p>This feature can also correct incorrect spelling or capitalization issues.</p>
+<!-- 20 !--> ADDING OCTOBER 2ND 2019 (10.02.2019)
+IDE feature: show suggestions and hightlight bad syntax
+<p>This is a togglable feature that shows you common keywords as you type, and also lets you scan your document for bad syntax without running the program. This is a normal feature in an IDE that some IDEs don't let you turn off.</p>
+<!-- 21 !--> ADDING OCTOBER 3RD 2019 (10.03.2019)
+IDE feature: show error count and show warning count
+<p>Show error count and warning count is a togglable feature that shows you the error and or warning counts for your program. You can specify what the error or warning is and put notes.</p>
+<!-- 22 !--> ADDING OCTOBER 4TH 2019 (10.04.2019)
+News mode feature: tags and filters
+<p>Along with the guidelines for news articles on SNU, there will also be tags that help you sort content better. For example, some common tags would be [political] [positive] [negative] [recent], and many others. These tags help you sort what is relevant.</p>
+<p>There will be many tags, you can choose common tags and sort through news articles even more efficiently.</p>
+<!-- 23 !--> ADDING OCTOBER 5TH 2019 (10.05.2019)
+Web tool: WLinkWBotW
+<p>The LinkBot is a web crawler tool that can crawl webpages. It does this automatically once given input. You give the linkbot input, like if you wanted to find all the dead links in a set of pages, it would go through all pages in a set domain, and return all the dead links, where they are, and what page. It will have its own separate crawl history.</p>
+<p>There will be an option to ignore robots.txt, but it isn't recommended to use it. It can also rip web pages to your computer similar to programs like HTTrack.</p>
+<!-- 24 !--> ADDING OCTOBER 6TH 2019 (10.06.2019)
+Site tool: 24/7 Tech support
+<p>This feature will be a private automated bot. It will sit in the background upon your consent, and respond to technical questions. The data from this bot is stored on an internal device, and is never sold or given to other people by SNU. It will respond to various phrases across all languages, and will give you 24/7 technical support.</p>
+<p>This feature is highly recommended for usage by children from 5 to 12, and by the elderly.</p>
+<!-- 25 !--> ADDING OCTOBER 7TH 2019 (10.07.2019)
+Witness feature
+<p>The witness feature is a feature where when you view a post without interacting with it, and just reporting it, you become a witness. Moderators can see user reports with the witness list.</p>
+<p>This is for modes that rely on moderators and communities. No other modes have this feature.</p>
+<!-- 26 !--> ADDING OCTOBER 8TH 2019 (10.08.2019)
+Investigator option
+<p>The investigator option lets you view and monitor without subscribing, or following. It also gives a different type of view count. Only investigate potentially hazardous accounts/unapproved bots. You can only invesigate up to 6 users at once.</p>
+<!-- 27 !--> ADDING OCTOBER 9TH 2019 (10.09.2019)
+Hair on screen easter egg
+<p>Putting a random hair on your screen and tricking people into swiping it off has been a common joke during the mobile timeline of the internet. This feature heavily improves on it.</p>
+<p>If you put a specific annotation on where the hair is, when someone swipes up on it, it will perform a redirect to a verfied joke page. For example:</p>
+<p>* The screen will go black, and it will seem like you turned the device off</p>
+<p>* Another hair will pop up on the screen</p>
+<p>* You can drag it with your finger/cursor</p>
+<p>* You can lead to a joke page with a message like "you fell for it"</p>
+<p>This feature can be turned off in the settings if you don't like it, or get confused by it.</p>
+<p>This feature is disabled by default for people who are confirmed for: going through Chemotherapy, people who are bald or balding. This is done, as it would be an insult to them, and they wouldn't fall for it, unless someone else commonly puts hairs on their screen.</p>
+
+# Stock up ideas here after you add in an idea for the day for future days
+
+=====================================================================================
+
+Sourcebase
+
+Add in even more sections
+Sourcebase CSS mode
+The CSS script for sourcebase
+include topbar
+include sidebar
+include transparent boxes
+include blackboard
+
+=====================================================================================
+
+create more script test files in various languages, and create their own repositories
+list repositories as (//file://SNU/Test/...)
+
+=====================================================================================
+
+Improved legends of the internet successor (internet musuem) ideas
+
+Improved YouTube section
+worst of YouTube, best of YouTube, featured creators
+better CSS, start experimenting
+POSITIVE REDDIT EVENTS
+NEGATIVE FACEBOOK EVENTS AND EFFECTS
+TURN YOUR CAPS LOCK key off, ok good
+
+=====================================================================================
+
+Positives
+
+Cut down on social media addiction for the sites users. 
+
+=====================================================================================
+
+Algorithm
+
+Algorithm for terms and recognition of several games
+
+=====================================================================================
+
+Plans for 3.0.6
+
+SNU as an application
+For Android, iOS, MacOS, Windows 8, 8.1, 10, TizenOS, Ubuntu 18.04, Fedora 30, etc
+Page customizable with themes, rewrite needed for all pages.
+
+=====================================================================================

@@ -1,0 +1,5 @@
+Website to do 10.11.2019
+
+Add in SNU_Wiki page, redirection between the 2 Wikis
+Create home page for F# and Bourne Again SHell
+Other updates

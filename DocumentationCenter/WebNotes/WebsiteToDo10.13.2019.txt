@@ -1,0 +1,7 @@
+Website todo 10.13.2019
+
+Add in Favicons for SNU HTML, PYTHON, and ADA programming
+Update Favicon archive
+Improve the SNU HTML and Python programming pages
+Add in idea info for SNU Lite (A lighter distribution with a lot less data) all pages optimized as much as possible
+Update documentation

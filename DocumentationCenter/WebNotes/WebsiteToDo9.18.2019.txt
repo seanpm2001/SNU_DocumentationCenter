@@ -1,0 +1,8 @@
+Website to do 9.17.2019.txt
+
+Sidebar for Python docs
+MCPYE Addlist update
+Create your own HTML documentation site
+DocLounge: Make file links into buttons, Info about hacking the site
+Archive and update rhe rest of the Python home pages.
+HTML 5.3 reference for H1-H6 (use text box) forms, details, poster, and other tags you commonly use

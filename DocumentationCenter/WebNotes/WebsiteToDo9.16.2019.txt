@@ -1,0 +1,18 @@
+Website to do 9.16.2019
+
+Programming Tools
+
+F# language support
+Further Python support
+Add in the blue parantheses, concatenation, integers, float, and input statments
+Further PowerShell support
+Add in examples with cls, echo, write
+Further PHP support
+Add in its own page, documentation for PHP, starter syntax
+
+General documentation
+
+Update developer log
+Update update log
+Update idea board
+Update version listing

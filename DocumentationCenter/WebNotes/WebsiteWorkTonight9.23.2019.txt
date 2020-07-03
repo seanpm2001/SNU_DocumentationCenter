@@ -1,0 +1,9 @@
+WebsiteWorkTonight9.23.2019.txt
+
+Update note section links
+Update update log further
+HTML5 documentation: progress tag, disabled attribute, mixed tags | add in links to existing pages in the tag and attribute lists
+Finalize snapshots
+
+Other work:
+Organize download folder, it has been put off for too long (canceled for tonight, will do on the weekend, or another day this week if I get time)

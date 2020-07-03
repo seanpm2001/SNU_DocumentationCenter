@@ -1,0 +1,9 @@
+Website todo 10.25.2019
+
+Add in more programming languages
+Add in a page about all the reasons to protect privacy
+Add in a joke page center, with a fake BSOD for all versions, fake update screens for Windows, MacOS, Ubuntu, Fedora, SteamOS, etc
+Update basic documentation
+
+Other:
+Create HTML version of the Phone backup from S7 edge file (not related to website)

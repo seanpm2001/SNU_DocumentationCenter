@@ -1,0 +1,12 @@
+Website todo 11.10.2019
+
+1. Sex ed work: add in instructor info and the request for content, add in gender symbol copy and paste
+2. TCL IDE: Add in a Tool Command Language IDE
+3. Update log page update
+4. dev log page update
+5. version history page update
+6. Repository sandbox mode
+7. Repository demo mode
+8. GavaScript update
+
+=============================================================================================================================

@@ -1,0 +1,13 @@
+Website todo 11.25.2019
+
+Update the update log snapshot section
+Add in more languages to the subtitle system, along with new colors
+Update the supersearch home page
+Label pages as "built-in SNU Supersearch pages" in case of a browser wrap
+Update the documentation center, new files, info on Supersearch component, improve other definitions
+
+Sample
+Acid1
+Acid2
+Acid3
+Test fails

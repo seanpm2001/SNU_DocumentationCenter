@@ -1,0 +1,8 @@
+Website to do 10.14.2019
+
+Add in journaling system section of site
+Privacy info - the choice (your journaling vs. Private life)
+Friendly business document
+Add in SQL page on SNU programming
+Add in improved info for all features in 3.0.5 in update log
+Update the DocumentationCenter pages

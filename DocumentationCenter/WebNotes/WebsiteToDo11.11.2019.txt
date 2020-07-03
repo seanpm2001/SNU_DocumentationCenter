@@ -1,0 +1,14 @@
+Website todo 11.11.2019
+
+1. Bookmark work: Portal, other bookmarks from season2 start, zipping
+2. Bookmark page update
+3. Update log update
+4. Dev log update
+5. Version history page update
+6. Veterans day holiday page
+7. TCL IDE: Add in a Tool Command Language IDE
+8. Repository sandbox mode
+9. Repository demo mode
+10. GavaScript update
+
+=============================================================================================================================

@@ -1,0 +1,28 @@
+MCPYE ideas 10.9.2019.txt
+
+Fatal pufferfish - Gives the fatal poison effect
+White marble block, Smooth marble block, Black marble block, smooth black marble block, etc
+Fools gold
+Fools gold block
+Mica block
+Mica
+Silverstone
+Black rubber block
+White rubber block
+Grey rubber block
+Blue rubber block
+Blue dyed slime block
+Red dyed slime block
+Lime dyed slime block
+Charged dragon head - Ender dragon head that sprays purple fire when you get too close
+Mirror block
+Sticky Normal shulker - A shulker that doesn't teleport
+Red shulker
+Red sticky shulker
+Blue shulker
+Blue sticky shulker
+Normal shulker (purple)
+Launcher: Bedrock, Java, and Python compatibility
+Dragon breath: lets you breath purple fire
+Splash dragon breath: splashes purple dragon fire
+Lingering dragon breath: Splashes purple dragon fire that stays in effect for a set amount of time

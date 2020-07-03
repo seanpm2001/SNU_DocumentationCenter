@@ -1,0 +1,32 @@
+Website todo 10.28.2019
+
+Website updates:
+Update in Lisp, Smalltalk, and Squeak (apple) programming
+Blockly: Add in other 8 versions, fix paragraph missing tag
+Revamped user profile system
+Templates:
+* ArchLinux.com like
+* Wiki-like
+* Gsites like
+* Plain text like
+* Sidebar left only
+* Sidebar right only
+* Topbar only
+* Scrolling media
+
+Licensing:
+List GPL sections
+List Apache sections
+
+Finish re-organizing the bookmark center (<h3> and <a> should be on the same line on all 4 sections)
+
+Zip files
+Create Favicons for Fortran, D, Nim, and Squeak
+Update favicon page
+Update idea board with status updates 
+
+Bookmarks for today
+New iOS stuff
+Other bookmarks in bookmark season 2 V4
+Taskbar
+Dock (MacOS)

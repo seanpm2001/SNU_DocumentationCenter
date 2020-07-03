@@ -1,0 +1,15 @@
+Website todo 10.29.2019
+
+Update idea board
+work on profile generation tool
+
+Arch mode - Topbar does all the work
+Google sites classic style
+Plain HTML style
+Sidebar only style
+Footer style
+Sidebar and topbar style
+Sidebar right
+Sidebar left
+Sidebar left and right, topbar and footer
+Sidebar left and right, footer

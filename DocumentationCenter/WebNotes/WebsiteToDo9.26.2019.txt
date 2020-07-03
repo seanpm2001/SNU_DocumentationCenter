@@ -1,0 +1,12 @@
+website todo 9.26.2019
+
+Hair on screen joke pages, start
+POSTPONED HTML5 doc: details tag
+update log, developer log, version history page, begin adding snapshot dates (do September and August only today, requirement: September, extra: August)
+idea board: add 1 idea
+Add in a favicon to use as the icon for the news and speedrunning section
+Add in information about the news engine
+Add in information about the speedrunning engine
+Start creating the NES speedrunning test engine (assembly)
+
+get the draft further into progress

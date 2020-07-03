@@ -1,0 +1,31 @@
+Website Add to list for this week October 16th 2019 to October 20th 2019
+{
+Updates to SQL page{
+	* include reference to comic #327, update data further
+}
+PHP programming page {
+	* favicon: ElePHPant
+	* work on some
+	* Sample files: variables, booleans, echo
+}
+New page standards for SNU programming {
+	* Mascot at bottom of page, centered (unless the language doesn't have an official mascot)
+	* Page color matches Logo, no black on white pages
+	* Sidebar with all page sections
+	* Language logo on sidebar
+	* Transparent boxes that match page color
+	* Top navigation bar with link to programming section, and exit (about:blank)
+	| Test on !C_HOME.html page
+	* Previous version: 1.00.0 (redirects to most recent in 1.00 branch)
+	* Snapshot previous: 1.00.1, 1.00.2
+	* New version (1.01.0 (redirects to most recent in 1.01 branch)
+	* Snapshot versions: 1.0.1, coming soon
+	* Start setting standards for the rest of the site
+}
+Update previous standards page {
+	* Link new standards to old page
+	* Created snapshot 3 reserved for future emergency edits
+}
+EarthSim/SNU universe update {
+	* Compete with the recent Microsoft flight simulator by adding in more interactions, and timeslines
+}

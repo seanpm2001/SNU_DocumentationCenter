@@ -1,0 +1,12 @@
+todo for website 10.22.2019
+
+4/8
+1* Update devnotes **Done**
+2* Create C++ page
+3* Move facade link to game pages **Done**
+4* Link to same pages on new and old software/programming centers **Done**
+5* 10 new Swift IDEs, the rest of 1.x, 2.x and some of 4.x **Done**
+6* Update OS family pages, and include links to SNU pages
+7* Write update for game center
+8* Write update for programming center, with more IDE links
+A* Normal documentation changes **Done**

@@ -1,0 +1,57 @@
+========================================================================================================================
+Website ToDo 9.13.2019
+
+************************************************************************************************************************
+
+Minecraft Py edition
+sun blocks
+sunglasses
+reinforced blocks - crafting = 9 of original blocks
+compact blocks - crafting = 9 of reinforced block types
+Slopes
+
+
+************************************************************************************************************************
+
+
+
+************************************************************************************************************************
+
+
+************************************************************************************************************************
+
+Developer log
+
+
+************************************************************************************************************************
+
+Ideaboard
+add a description for days when you have an idea
+Wrap up the idea:
+No edits
+Not yet applied
+
+************************************************************************************************************************
+
+Programming section
+Improve PowerShell IDE, documentation on a separate page, more than just comments
+Add a dropdown for the limited PowerShell versions
+Add in a Python IDE
+Add in unofficial Python Documentation in new tab, with massive dropdown
+Documentation start
+#
+'''
+"""
+print ("hello world")
+x = int(1)
+y = int(2)
+z = int(3)
+print (x * y * z)
+for i in range
+input1 = input("Press [ENTER]")
+input2 = str(input("Enter a name")
+input3 = int(input("Enter a number 1 through 10 (no decimals)")
+input4 = float(input("Enter in the first 2 numbers of Pi in decimal form")
+Soon: PHP IDE, Perl IDE, PostScript IDE, Pascel IDE, Purebasic IDE
+
+========================================================================================================================

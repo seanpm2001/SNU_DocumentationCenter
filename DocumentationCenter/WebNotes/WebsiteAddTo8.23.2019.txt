@@ -1,0 +1,26 @@
+Website updates for 8.23.2019
+
+Make information page for hosting custom SNU servers
+Improve the documentation:
+Add in section descriptions
+Add in content for sections
+Add in "view in a separate file" button
+Add in more hidden sections within Server 1, that can only be accessed through buttons on the same page
+Update Minecraft python Edition: blocks, add list, mobs (screw it, no Minecraft update today, taking a break from it)
+Update the update log
+Update the version history page
+Update the developer log: entry for today, and weekly entry
+Add in SNU India server, a variation of SNU without pornography
+Add in SNU China Server, a variation of SNU that is optimized for China
+Add in SNU Europe Server, a variation of SNU that is optimized for the EU (Very restricted, even more restriction than the Chinese server)
+
+Update the audio list for sound effects and separate notes
+
+MC
+
+Herobrine + description (all positive potion effects, the hardest mob to kill in the game)
+death message: "You will never be free"
+Health: 1,000,000,000+
+Damage per hit: 50000-150,000,000
+Air block
+Barrier block

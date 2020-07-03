@@ -1,0 +1,11 @@
+Website updates for 6.18.2019
+
+fix blog redirection and blog editor redirection leading to 404 bug on personal blog page - some of the last existing bugs with the new directory tree format
+
+Mention update log didn't get updated on 6.16.2019
+
+Ideas:
+
+China portal
+
+30 day deletion period

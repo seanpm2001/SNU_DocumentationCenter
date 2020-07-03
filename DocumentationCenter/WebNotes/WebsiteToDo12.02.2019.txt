@@ -1,0 +1,4 @@
+ToDo 12.02.2019
+
+Website: Sourcebase update (embedded CSS improvements, version number update, other improvements)
+Finalize work on the committee system for now

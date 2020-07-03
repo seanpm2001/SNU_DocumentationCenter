@@ -1,0 +1,9 @@
+website work weekend 10.19.2019
+
+Add in standards for blog pages
+Add in Digg mode (SNU_ContentShovel)
+Add in standards for Digg mode
+Add in standards for SNU Wiki
+Update ALL programming pages for compliance with 1.0.1.1 styling standards
+Update PHP page, add in mascot, version numbers, and language info
+Update HTML programming pages - update info listed as PL (Programming Language) to MU_L (MarkUp Language)

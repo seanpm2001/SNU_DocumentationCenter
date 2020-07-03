@@ -1,0 +1,13 @@
+Website week 35 plans
+September 26th 2019 to October 2nd 2019
+
+Update and add in pages for the speedrun section
+Add in a news section
+Start adding in snapshots to the bottom of pages.
+Text Engine improvements to:
+* Accessibility
+* TTS
+* Emoji
+* UNICODE
+* XML
+* Text messaging

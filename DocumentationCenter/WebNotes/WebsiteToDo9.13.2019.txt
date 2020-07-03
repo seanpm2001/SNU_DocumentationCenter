@@ -1,0 +1,59 @@
+========================================================================================================================
+Website ToDo 9.13.2019
+
+************************************************************************************************************************
+
+Update IdeaList file - Make it organized and rename future versions to WebsiteDevNotes[date].txt
+HEAVY MODIFICATION NEEDED
+
+************************************************************************************************************************
+
+TV mode
+VCR - Resume video option template page with test video. Underneath "This feature is not yet functional"
+Add info about various VCRs, the acronym, and their usage
+Private video VCR mode
+Remove the 4 hour limit
+
+************************************************************************************************************************
+
+ProgressTag page
+Starting with snapshot 4, the version that will be updated will be called progresstagtestHTML5.html
+Test different colors
+
+************************************************************************************************************************
+
+Developer log
+As of yesterday, I am starting to add in support for various browsers, including WebKit based browsers, and IE 11
+
+************************************************************************************************************************
+
+Ideaboard
+add a description for days when you have an idea
+Wrap up the idea:
+No edits
+Not yet applied
+
+************************************************************************************************************************
+
+Programming section
+Improve PowerShell IDE, documentation on a separate page, more than just comments
+Add a dropdown for the limited PowerShell versions
+Add in a Python IDE
+Add in unofficial Python Documentation in new tab, with massive dropdown
+Documentation start
+#
+'''
+"""
+print ("hello world")
+x = int(1)
+y = int(2)
+z = int(3)
+print (x * y * z)
+for i in range
+input1 = input("Press [ENTER]")
+input2 = str(input("Enter a name")
+input3 = int(input("Enter a number 1 through 10 (no decimals)")
+input4 = float(input("Enter in the first 2 numbers of Pi in decimal form")
+Soon: PHP IDE, Perl IDE, PostScript IDE, Pascel IDE, Purebasic IDE
+
+========================================================================================================================

@@ -1,0 +1,35 @@
+Website todo 11.22.2019
+
+Search engine
+
+Add in SQL data file (search has multiple modules in different languages)
+Add in PHP data file
+Add in video search page
+Add in audio search page
+Add in bookmark system, with import and export system
+
+Site distro setup page
+
+features
+components
+hosting
+
+sample images for search engine
+page about properly writing search queries
+acid test remakes, google easter egg remakes in DIR:Standards DIR:Easter eggs of the internet
+
+Website idea: Multi subtitle mode (play multiple subtitles at once)
+
+Streams: 3
+Text1color
+Back1color
+Language1
+Dialect1
+Font1
+Location1
+Readspeed1 (char per sec)
+Trans1
+Sublang1
+Border1
+Encoding1
+3 at once

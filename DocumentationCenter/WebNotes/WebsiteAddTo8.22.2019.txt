@@ -1,0 +1,13 @@
+Website updates for 8.22.2019
+
+Make information page for hosting custom SNU servers
+Improve the documentation
+Fix the main SNU VoIP page background
+Add in hidden sections within Server 1, that can only be accessed through buttons on the same page
+Update Minecraft python Edition: blocks, add list, mobs (screw it, no Minecraft update today, taking a break from it)
+Update the update log
+Update the version history page
+Update the developer log: entry for today, and weekly entry
+Add in SNU India server, a variation of SNU without pornography
+Add in SNU China Server, a variation of SNU that is optimized for China
+Add in SNU Europe Server, a variation of SNU that is optimized for the EU (Very restricted, even more restriction than the Chinese server)

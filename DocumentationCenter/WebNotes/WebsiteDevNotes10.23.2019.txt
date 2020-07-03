@@ -1,0 +1,306 @@
+=====================================================================================
+WebsiteDevNotes9.24.2019.txt
+Originally websiteideas9.12.2019.txt
+=====================================================================================
+
+Settings page
+
+Enhanced settings page, with lots of options 
+
+General updates to documentation
+
+=====================================================================================
+
+Learning and references
+
+Useful tutorials
+
+JS Data
+
+https://www.youtube.com/watch?v=AUOe6E7GgP8
+https://www.youtube.com/watch?v=1pz9zExrj5o&list=PL081AC329706B2953&index=51
+
+=====================================================================================
+
+Idea writing page
+
+Carry over some of yesterdays website notes (just carry over everything like you have been, then remove the added things later) no need for reminder anymore, this will be the last notes page that contains this info if iI can remember
+
+=====================================================================================
+
+Universal time system
+
+Name for time system: universal time zone/system
+Find content used in a video easily with detection
+Update idea board main page info: transparent boxes, 
+Website plan: redo legends of the internet section
+
+=====================================================================================
+
+Decisions
+
+Decision that needs to be made:
+Do you want to modify the update log further to include things like sidebars and topnavs? Should it be like every other page? What should the background be.
+
+=====================================================================================
+
+Also a little piece of memorabilia needs to be created:
+
+More sharable images of the site without the SNU brand
+Custom SNU wallpapers (in 16K) (15360x8640) -temporarily cancelled as images take up too much
+Note: GIMP is a wonderful raster image editor. It really had gotten me into graphic design again, and it has helped me in many ways! :)
+
+Decisions that need to be made
+
+Stockup ideas
+
+Streak ended
+
+=========================================================================================================
+                                                                                                         
+                                                                                                         
+TTTTTTTTTTTTTTTTTTTTTTT     OOOOOOOOO                      DDDDDDDDDDDDD                                 
+T:::::::::::::::::::::T   OO:::::::::OO                    D::::::::::::DDD                              
+T:::::::::::::::::::::T OO:::::::::::::OO                  D:::::::::::::::DD                            
+T:::::TT:::::::TT:::::TO:::::::OOO:::::::O                 DDD:::::DDDDD:::::D                           
+TTTTTT  T:::::T  TTTTTTO::::::O   O::::::O                   D:::::D    D:::::D    ooooooooooo           
+        T:::::T        O:::::O     O:::::O                   D:::::D     D:::::D oo:::::::::::oo  :::::: 
+        T:::::T        O:::::O     O:::::O                   D:::::D     D:::::Do:::::::::::::::o :::::: 
+        T:::::T        O:::::O     O:::::O ---------------   D:::::D     D:::::Do:::::ooooo:::::o :::::: 
+        T:::::T        O:::::O     O:::::O -:::::::::::::-   D:::::D     D:::::Do::::o     o::::o        
+        T:::::T        O:::::O     O:::::O ---------------   D:::::D     D:::::Do::::o     o::::o        
+        T:::::T        O:::::O     O:::::O                   D:::::D     D:::::Do::::o     o::::o        
+        T:::::T        O::::::O   O::::::O                   D:::::D    D:::::D o::::o     o::::o :::::: 
+      TT:::::::TT      O:::::::OOO:::::::O                 DDD:::::DDDDD:::::D  o:::::ooooo:::::o :::::: 
+      T:::::::::T       OO:::::::::::::OO                  D:::::::::::::::DD   o:::::::::::::::o :::::: 
+      T:::::::::T         OO:::::::::OO                    D::::::::::::DDD      oo:::::::::::oo         
+      TTTTTTTTTTT           OOOOOOOOO                      DDDDDDDDDDDDD           ooooooooooo           
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+=========================================================================================================
+______ _                           _         _   _                      _            _          _            _             
+| ___ \ |                         | |       | | | |                    | |          | |        | |          | |            
+| |_/ / | ___  __ _ ___  ___    __| | ___   | |_| |__   ___  ___  ___  | |_ __ _ ___| | _____  | |_ ___   __| | __ _ _   _ 
+|  __/| |/ _ \/ _` / __|/ _ \  / _` |/ _ \  | __| '_ \ / _ \/ __|/ _ \ | __/ _` / __| |/ / __| | __/ _ \ / _` |/ _` | | | |
+| |   | |  __/ (_| \__ \  __/ | (_| | (_) | | |_| | | |  __/\__ \  __/ | || (_| \__ \   <\__ \ | || (_) | (_| | (_| | |_| |
+\_|   |_|\___|\__,_|___/\___|  \__,_|\___/   \__|_| |_|\___||___/\___|  \__\__,_|___/_|\_\___/  \__\___/ \__,_|\__,_|\__, |
+                                                                                                                      __/ |
+                                                                                                                     |___/ 
+===========================================================================================================================
+Priority: low
+
+More sharable images of the site without the SNU brand
+
+----------------------------------------------------------------------------------------------------------------------------
+Priority: medium
+
+Make an update to the classic Legends of the Internet section of the site
+Modernize the new legends of the internet section of the site to make it better than the classic
+
+---------------------------------------------------------------------------------------------------------------------------
+WORK THAT
+MUST BE 
+DONE 
+TODAY:
+---------------------------------------------------------------------------------------------------------------------------
+Priority: HIGH !
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+=========================================================================================================
+
+Future 2D start page update ideas
+
+Everything in a transparent box
+Snapshots move to the bottom of the page
+Developer comments at the very bottom (the same format as the update log, and idea board 
+Add links between 1D start, and 3D start
+More transparent boxes for other sections
+
+Experimental HTML tests
+
+Some tests you should try:
+longest title in <title></title> (can it handle 1000 character titles?) (please test in a different browser first)
+
+
+=====================================================================================
+
+List of improvements of SNU over YouTube (below)
+
+List of actions SNU will never do (below)
+
+
+List of ways SNU videos improve over YouTube videos
+<H1>SNU Video improvements over YouTube videos</H1>
+<p>01)* You get to control the ads you see</p>
+<p>02)* The subscribe button actually works</p>
+<p>03)* Notifications actually work</p>
+<p>04)* Playlists have more to them</p>
+<p>05)* Videos have more options to them</p>
+<p>06)* Videos can be downloaded, even without a YouTube Red/YouTube Premium subscription</p>
+<p>07)* Comment sections have more features to them</p>
+<p>08)* There are more supported video formats</p>
+<p>09)* The copyright system is alot harder to abuse, working on making it impossible to abuse</p>
+<p>10)* Stronger fair use is in effect</p>
+<p>11)* More statistics are shown</p>
+<p>12)* The recommended system works better</p>
+<p>13)* You won't get randomly unsubscribed from people</p>
+<p>14)* There is a much higher like limit (YouTubes liked videos limit per account is 5,000 (five thousand), SNUs limit is 100,000,000,000,000,000,000,000,000,000,000,000,000 likes (one hundred undecillion), which is pretty much endless, as you will never reach this amount, even in a hundred lifetimes</p> 
+<p>15)* </p>
+<H1>Things SNU will never do</H1>
+<p>* Be blocked behind a paywall</p>
+<p>* Eliminate free speech</p>
+<p>* Remove options</p>
+<p>* Sell your data</p>
+<p>* </p>
+
+=====================================================================================
+
+User settings
+
+User settings file
+
+=====================================================================================
+
+Website notes overview
+---
+
+Website notes 7.16.2019 (AT NIGHT)
+Include the 5 month wait (YOU FORGOT TO DO THIS)
+
+More ideas:
+Graphical test pages (5 fps-120 fps)
+Update the !!Start page in 1d mode
+
+NEW PLANS:
+Reduce the amount of dead links
+Create a developer info page for 2D and 3D mode
+
+Minecraft files:
+resolution (between 32x32 and 16000x16000)
+
+Add a Minecraft 3D start page 
+
+Add content in the content missing sections in the 1D start page
+
+=========================================================================================================
+
+Server data
+
+Collect server data globally and report it to the main server server list
+The data that will be collected is the server size, and usage, nothing else.
+
+=====================================================================================
+
+SNU porn and erotica
+
+Message on []] porn
+Do the right thing
+Always remember that women are not sex objects. Treat them like you would treat anyone else  
+
+Erotica links to porn
+porn links to erotica
+have to balance it to make almost everyone happy. Also have to state my position on these things, as it is neccesary.
+Anti-rape policy
+
+=====================================================================================
+
+Yourspace
+
+Myspace examples
+Myspace import
+Examples
+
+=====================================================================================
+
+Current mission
+
+DEAD LINK HUNTS
+
+Check files:
+templateaccountblogs
+SNUporn
+updatelog (no check necessary, as this page is frequently, and heavily updated and checked for errors) (July is where it received its heaviest development period so far this year)
+
+=====================================================================================
+
+IDEAS STOCK UP
+
+1|Last streak: 32 ideas
+2|Current streak: 1 idea
+3|Newstreak2: 0 ideas
+4|Newstreak3: 0 ideas
+5|Newstreak4: 0 ideas
+
+<!-- 1 !--> ADDING TODAY (October 23rd 2019 (10.23.2019)
+SNU Universe interactions update
+<p>I have seen a sneak peek of what Microsoft Flight Simulator 2020. It contains an entire open world that is interactive, similar to the SNU Universe Earth map.</p>
+<p>I have decided to further improve on the SNU Universe due to this. The SNU Universet set and MSFS2K20 are almost entirely different from each other, and I want to increase the difference.</p>
+<p>The map will have further interaction, and you will be able to drive/operate vehicles, build stuff, break stuff, use items, and more.</p>
+<p>This will allow the virtual Universe environment to be highly interactive. This might use up more data, and the interactions can easily be turned off.</p>
+
+# Stock up ideas when more than 1, add 1 new idea every time one is finalized, then add 1 daily until you run out again (continue adding in more to the list, even while adding new ideas to the board)
+
+=====================================================================================
+
+Sourcebase
+
+Add in even more sections
+Sourcebase CSS mode
+The CSS script for sourcebase
+include topbar
+include sidebar
+include transparent boxes
+include blackboard
+
+=====================================================================================
+
+create more script test files in various languages, and create their own repositories
+list repositories as (//file://SNU/Test/...)
+
+=====================================================================================
+
+Compression tool updates:
+definitions of file detection, and change detection
+
+=====================================================================================
+
+Improved legends of the internet successor (internet musuem) ideas
+
+Improved YouTube section
+worst of YouTube, best of YouTube, featured creators
+better CSS, start experimenting
+POSITIVE REDDIT EVENTS
+NEGATIVE FACEBOOK EVENTS AND EFFECTS
+TURN YOUR CAPS LOCK key off, ok good
+
+=====================================================================================
+
+Positives
+
+Cut down on social media addiction for the sites users. 
+
+=====================================================================================
+
+Algorithm
+
+Algorithm for terms and recognition of several games
+
+=====================================================================================
+
+Plans for 3.0.6
+
+SNU as an application
+For Android, iOS, MacOS, Windows 8, 8.1, 10, TizenOS, Ubuntu 18.04, Fedora 30, etc
+Page customizable with themes, rewrite needed for all pages.
+
+=====================================================================================

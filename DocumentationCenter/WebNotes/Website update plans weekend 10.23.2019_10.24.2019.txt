@@ -1,0 +1,46 @@
+====================================================================================================
+Website update plans weekend 10.23.2019_10.24.2019
+----------------------------------------------------------------------------------------------------
+Documentation (1)
+
+Update update log to have sidebar links for all articles (big update)
+----------------------------------------------------------------------------------------------------
+Search engine (7)
+
+Add in SQL data file (search has multiple modules in different languages)
+Add in PHP data file
+Add in video search page
+Add in audio search page
+Add in bookmark system, with import and export system
+sample images for search engine
+page about properly writing search queries
+----------------------------------------------------------------------------------------------------
+Site distro setup page (1)
+
+hosting
+
+# acid test remakes, google easter egg remakes in DIR:Standards DIR:Easter eggs of the internet
+----------------------------------------------------------------------------------------------------
+Ideas (1)
+
+Website idea: Multi subtitle mode (play multiple subtitles at once)
+No ideas for Sunday
+----------------------------------------------------------------------------------------------------
+Subtitle feature (1_big)
+
+Streams: 3
+Text1color
+Back1color
+Language1
+Dialect1
+Font1
+Location1
+Readspeed1 (char per sec)
+Trans1
+Sublang1
+Border1
+Encoding1
+3 at once
+
+https://www.amazon.com/Samsung-2666MHz-Memory-Computers-M471A4G43MB1/dp/B07N124XDS/ref=cm_cr_arp_d_product_top?ie=UTF8
+====================================================================================================

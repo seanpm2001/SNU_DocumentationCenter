@@ -1,0 +1,7 @@
+Website to do 9.17.2019.txt
+
+Sidebar for Python docs
+MCPYE Addlist update
+Create your own HTML documentation site
+DocLounge: Make file links into buttons, Info about hacking the site
+Archive and update rhe rest of the Python home pages.

@@ -1,0 +1,19 @@
+Website todo 11.30.2019
+
+Committee systen
+Finish snapshot dates for U LOG
+Update file info for update log - first in 2+ months update
+Establish the SNU government and rules
+
+Governance site rule:
+
+The master committee and specific subcommitties can only be run by the official SNU distribution, other distributions can use it
+No monopolization
+No invasion of user privacy, your mirror can be banned for this
+These rules prevent Google, Amazon, Microsoft, and other companies from monopolizing to 100% power. 
+Committee rules not yet established, loopholes cannot be used on this ruleset
+Only the master committee can make changes to committee rules ATM
+The rule on invading user privacy cannot ever be changed
+
+Documentation
+Documentation update: doc center, lots of notes, update all definitions

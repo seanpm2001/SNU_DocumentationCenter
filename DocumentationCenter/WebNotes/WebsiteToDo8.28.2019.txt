@@ -1,0 +1,65 @@
+Notes for 8.28.2019
+
+website:
+discuss the concept of WacOS, its naming (LacOS didn't seem like a good name, as it sounds like "Lack OS" which shouldn't be associated with a Linux distribution, and it was 5:33 in the morning, so I don't know where the W came from. Just note the W does not stand for Windows
+Pronounced like: Wack O S or Walk O S or however you would like to pronounce it
+It can act as a MacOS port that isn't developed by apple, and doesn't need an expensive computer to run with. Linux users constantly go through phases of different operating systems themes, a lot of Linux users go through a MacOS phase, I haven't yet, but I could in the future
+It will be highly functional, and will be written in C for the core, and Python for the system, as I want to continue to spread Python, it is a great programming language, it is simple to write, and very powerful
+Some features include a desktop interface changer that can make the distro function like any version of MacOS, without the restrictiveness, and proprietary functionality
+iOS and MacOS programs from System 1 to the latest version, and iPhone OS 1 to the latest version will be supported
+The system will be at minimum 64 bit, but will contain 32 bit, 16 bit, 8 bit, and 4 bit libraries
+
+Update the days added to index for 8.27.2019 and 8.28.2019
+UPDATE MINECRAFT PYTHON EDITION:
+BEES
+HEROBRINE
+RASPBERRY PI
+NOTES FROM THE PAST 7 DAYS
+
+Political filters need to be updated. Deep down, it seems really simple, and if we get on top of it early, we might get it up to date enough to block most political issues, and always stay up to date on it
+
+Plans to enhance programming environments for SNU.
+
+Audio list:
+Add Music and SFX from yesterday: Yoda dying sound effect, Bongo cat only knows 5 notes, Mii channel theme with no pauses, Sans call
+
+Website ideas
+Update idea info *HIGH PRIORITY*
+allow search suggestions with certain swears
+Dropdown checklist
+Redirect of swearcensor (upon user request)
+Replace swears in search with sets of characters, plus mismatch existing resulte
+****
+????
+?!*%
+%%%%
+####
+[][][][]
+▪▪▪▪
+■■■■
+••••
+●●●●
+××××
+xxxx
+XXXX
+0000
+8888
+♡♡♡♡
+♤♤♤♤
+☆☆☆☆
+°°°°
+¤¤¤¤
+++++
+¿¿¿¿
+¡¡¡¡
+♧♧♧♧
+◇◇◇◇
+Link check: preview SNU links before clicking on them. This can cut down on self-promotion in comment sections, as people will notice. This feature can be disabled and re-enablef easily. There will also be a self-promotion menu comments will be relocated to. 
+
+
+Phone usage
+Always calculating percentage
+Percentage going down
+Percentage used
+Percentage plugged in and unplugged
+Current charged % + ratio of how long that will last with average usage along with available time for next operation (usually laptop work)

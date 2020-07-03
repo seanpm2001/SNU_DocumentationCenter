@@ -1,0 +1,23 @@
+Website ToDo 9.20.2019
+
+Work on HTML5 documentation, Headings, and separate
+Improve pages
+
+Text Engine website
+
+Accessibility
+TTS
+Emoji
+UNICODE
+XML
+Text messaging
+
+Update dev notes and documentation center
+
+Update core doc pages
+Update log
+Developer log
+Idea board
+Version history page
+
+Update Python home pages - Programming tools

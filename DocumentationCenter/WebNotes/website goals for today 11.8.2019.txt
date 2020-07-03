@@ -1,0 +1,9 @@
+website goals for today 11.8.2019
+
+WACOS
+WAC Store
+Python terminal update WACOS
+Swift terminal WACOS
+Objective-C terminal WACOS
+
+Other

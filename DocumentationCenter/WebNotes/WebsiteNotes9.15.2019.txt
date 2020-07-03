@@ -1,0 +1,10 @@
+Notes for tonight 9.15.2019
+
+Old version snapshotted
+double snapshot
+python documentation: hello world, comments
+Update log updates 
+Idea board update
+Developer log update
+Software center update <!-- Improve over repl.it !-->
+Version listing update

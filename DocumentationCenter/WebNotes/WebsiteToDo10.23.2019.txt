@@ -1,0 +1,21 @@
+Website ToDo 10.23.2019
+
+Update Java pages
+Update game pages
+Create MS-DOS style pages
+Create Objective-C pages
+Create Jython pages
+Create the last 10 swift terminals (version 5.1.1 exists now)
+Updae game player page:
+sidebar search: tags [open source] game category release year
+New families for notes:
+	The web family (HTML, JS, CSS, PHP ActionScript, Ruby)
+	The markup family (HTML, YAML, XML]
+	The assembly family (Assembly)
+	The first family (Assembly, COBOL, FORTRAN, 4, 5)
+Finalize work on the idea: SNU universe interactivity, and update the ideaboard
+
+
+Get bookmarks for:
+Firefox 70
+History of programming languages

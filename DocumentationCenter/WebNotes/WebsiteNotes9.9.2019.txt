@@ -1,0 +1,7 @@
+Website required updates 9.9.2019
+
+PowerShell IDE selection page: Match HTML comments to sections on the main programming home page
+PowerShell IDE selection page: Add in a anchor to the back button that takes you straight back to the PowerShell section of the main page
+Main programming page: Make anchor for PowerShell IDE selection area
+General documentation updates
+Documentation center update, new files, more info on existing sections, specifically the ones you got too tired to do one night

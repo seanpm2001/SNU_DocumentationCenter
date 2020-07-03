@@ -1,0 +1,9 @@
+Website todo tonight 10.26.2019
+
+Update the DLang and Nim pages to include better structuring (test it) add in icons
+Update most other pages, and get as many to standard as possible.
+Create default Favicon for programming page:
+
+[ Blue - SNU logo]
+[ Beige - Language name and logo ]
+[ Black - Green terminal text "programming" ]

@@ -1,0 +1,8 @@
+website todo 9.25.2019
+
+Hair on screen joke pages, start
+HTML5 doc: details tag
+update log, developer log, version history page, begin adding snapshot dates (do September and August only today, requirement: September, extra: August)
+idea board: add 1 idea
+add in speedrunning and news section
+get the draft further into progress

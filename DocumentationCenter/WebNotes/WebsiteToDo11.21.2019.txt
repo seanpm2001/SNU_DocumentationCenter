@@ -1,0 +1,13 @@
+Website todo today 11.21.2019
+
+Minecraft Python Edition update:
+Classic Java blocks tag - Separate set of blocks with backwards compatibility to Java edition
+Classic Bedrock blocks tag - Separate set of blocks with backwards compatibility to Bedrock edition
+
+Nether reactor core
+3D map
+3D locator map
+Other ideas listed in documents
+
+Idea board update
+Search engine update: image search, normal search

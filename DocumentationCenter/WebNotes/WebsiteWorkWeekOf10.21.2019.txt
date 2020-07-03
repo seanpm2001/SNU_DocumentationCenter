@@ -1,0 +1,22 @@
+Website work for this week 10.21.2019
+
+Update the documentation page, with new files, and info about distros, and how many people need use of the site
+Update all programming pages and get them up to standard
+Create standards for blog pages
+Update Programming section home page
+New standards: Language family, more language info: typing discipline, platform, license, 
+Update the Swift page
+Make terminal pages for all swift versions
+Add in terminal standards
+
+MCPYE
+
+Multi-colored wet sponges, normal sponges, lava sponges (category: blocks)
+Sponge piece (can clean stuff, is not a block) category: items
+
+Extras
+Create a page for Objective-C programming
+Create a page for IronPython programming
+Create a page for C++ programming
+Create a page for C# programming
+Create a page for Dlang programming

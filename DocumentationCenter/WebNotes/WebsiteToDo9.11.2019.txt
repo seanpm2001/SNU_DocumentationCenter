@@ -1,0 +1,21 @@
+notes for website 9.11.2019
+
+Ideas:
+
+1. Autoplay GIF option
+2. Speedrun section of site
+3. Implement deepfake speedrun fix
+4. Edit: External content servers to include an advertisement server
+4.1: DVR mode
+5. VCR mode
+6. Orthography view
+
+Update log
+3.0.4 section
+3.0.5 section
+Update page statistics on top and bottom
+
+Update download tag test
+<download><a href=""></a></download>
+Add info on 0-100 section
+Update other HTML test reference files

@@ -1,0 +1,7 @@
+Notes for tonight 8.30.2019
+
+Website updates:
+
+Improve the programming section of the site. It needs to be developed, as it is a core feature
+Minecraft Py Edition update: Broken glass, throwable bricks, throwable slime blocks, damaged glass (bricks break glass panes, but damage glass blocks, 3 hits destroy it, unless it is reinforced) make cogs functional (they can act as repeaters, but on the sides of blocks, walls, fences, and bars
+General documentation updates

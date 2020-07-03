@@ -1,0 +1,26 @@
+Website todo 11.19.2019
+
+Update log and other doc
+Idea board update
+Tags for SNUSUPSRCCH
+This image is faking transparency
+Icons
+Transparent
+Wallpaper
+Black and white
+SVG
+BitMap
+Vector
+PNG
+JPG
+TIF
+16 color
+256 color
+16 bit color
+24 bit color
+32 bit color
+GIF
+Animated GIF
+Still GIF
+
+Search bar

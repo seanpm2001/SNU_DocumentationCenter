@@ -1,0 +1,17 @@
+website todo 10.18.2019
+
+Update PHP page
+Update C page
+Update Python page
+Add in RUBY page
+Create Ruby, PHP, and XML icons
+Update favicon page
+- Add in project files
+- Add in 3 new icons
+User profile data file for programming tools (Python 128 bit)
+Ideaboard: add in entries for days since the last idea written
+New idea: SNU Universe interaction update
+To compete with the Microsoft Flight Simulator, I have to add in interactivity with all objects
+This includes vehicles, buildings, lakes, oceans, rivers, tools, and all objects
+Timeline of -4,500,000 BCE to 2022 (religion modes separate)
+Expand on this idea before adding to the idea board

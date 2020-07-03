@@ -1,0 +1,50 @@
+======================================================================================================================================================
+Website to do 9.10.2019
+======================================================================================================================================================
+
+Morning edit
+
+General
+
+Get powershell compatibility files for 5.0, 5.1, 6.0, 6.1, and 6.2 (5 versions)
+Updated the powershell home page
+Start making snapshots for HTML test references, CSS test references, and JS test references, and add in a snapshot system for them
+(exceptions: JS lightbulb had an early form of snapshotting, do not snapshot JS lightbulb pageS)
+Daily documentation updates
+Update download tag test, play with it
+
+======================================================================================================================================================
+
+11:28 am to 11:34 am edit
+
+PowerShell IDE
+
+Unofficial PowerShell documentation section
+start on PowerShell page, sections with text boxes:
+PowerShell file types
+PowerShell comments
+Continue on new page, as separate
+Version dropdown
+Unofficial until confirmed by Microsoft
+
+<DOWNLOAD> Tag
+Test <a href="Bigfile.filetype"></a> with the <download> tag
+Add a 0% progress bar
+Add a 200% progress bar
+Label progress bar sections by max percentage
+Add a 1000% progress bar
+
+Update log
+Daily update
+Major updates section, to include 3.0.4, and 3.0.5 as a separate change
+Include:
+Update count
+New features
+Release info
+3.0.5 has a big feature that became a failure (snapshot folders) as links were't able to connect. The system was abandoned quickly
+
+ActionScript support
+Researching security
+Possible custom flash system, more secure, open source (might fork an already existing one)
+
+======================================================================================================================================================

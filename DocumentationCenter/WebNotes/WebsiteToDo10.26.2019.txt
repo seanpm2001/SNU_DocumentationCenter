@@ -1,0 +1,5 @@
+Website todo tonight 10.25.2019
+
+Add in DLang programming page
+Add in Nim/Nimrod programming page
+make page transitions from Windows (CR LF) to UNIX (LF) - It is a lot lighter

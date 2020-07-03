@@ -1,0 +1,52 @@
+====================================================================================================
+Website todo 11.14.2019
+Today is an important day for development due to the 1 month away release of 3.0.6
+
+* Work on botcoach: add in more bot types, and rules (add in a sample Robots.txt and a sample Androids.txt)
+* DMAIL: Port over features from 1.0, remove the PSD files to save over 500 megabytes of space, and work with these
+- All these features alone can make for a good update if you utilize it correctly
+* Update the documentation page with new website data files
+* Update the staff ideaboard to include sample entries, and update the botcoach entry	
+
+DMAIL
+Add in a wallpaper room with a resolution dropdown
+Mailbox info and an actual mailbox animation for oepning the inbox
+New tags: unviewed, frequently viewed, finance, email confirmation, password changes, job offers, interesting spam
+Get individual files ready from 1.00 Dmail in the branch "LegacyPlan"
+implement important fratures ito the main folder
+Remove VBS from modern branch
+Work on filling in directories
+Mailbox folder
+View repositories option
+Add in links for all sections via the mailbox control page (not the inbox)
+Add in links to mailbox control page
+
+Ideaboard
+Update + new idea: sub branches in repositories
+
+Botcoach:
+Botfarm countries
+Click country
+Sub country
+Follow country
+Spam country
+Chatbot system
+Create bot option + bot API
+Bots can be written in:
+* Python
+* JavaScript
+* Java
+* C
+* Rust
+* PHP
+* C++
+* Other
+Follow along bots (perform actions against 1 profile and receive actions, likes, upvotes, and followers (no subscriptions))
+
+Repo:
+Engineer superdesk (alternate to AutoDesk and AutoDesk Inventor)
+
+Site documentation:
+Add in a nutshell section for each section
+Version numbering transition (3.04.xxxx -> 3.0.5.0)
+====================================================================================================
